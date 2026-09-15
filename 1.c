@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #define f(x) x*x*x-4*x-9
 
+
 int main(){
     float x0,x1,x2,f0,f1,f2,e;
     int i=0,max;
