@@ -18,6 +18,7 @@ int main(){
     printf("Enter maximum iteration:");
     scanf("%d",&matrix);
     printf("value of function:%lf ",f(x0));
+
     
     while(i<=matrix){
         x1=x0-(f(x0)/df(x0));
