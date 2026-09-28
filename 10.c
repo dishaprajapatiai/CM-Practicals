@@ -29,5 +29,4 @@ int main(){
     double result = y;
     printf("The value of y at time %lf is %lf\n",xn,y);
     return 0;
-    
-}
+    }
